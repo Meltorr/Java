@@ -1,0 +1,15 @@
+package br.estacio.pri.heranca.empresa;
+
+public class GabrirnaTeste {
+	public static void main(String[] args) {
+		Fornecedor f1 = new Fornecedor();	
+		
+		System.out.println("Método obter saldo: " + f1.obterSaldo());
+	
+	
+	
+	
+	
+	
+	}
+}

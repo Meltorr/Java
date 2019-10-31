@@ -1,0 +1,7 @@
+package br.estacio.pri.heranca.empresa;
+
+public class GabrirnaTeste {
+	public static void main(String[] args) {
+		
+	}
+}
